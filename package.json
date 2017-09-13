@@ -11,5 +11,8 @@
     "d3"
   ],
   "author": "Daven Quinn",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "d3-scale": "^1.0.6"
+  }
 }
